@@ -1,13 +1,13 @@
 nav ul {
   justify-content: space-between;
 }
-h2{
-    font-size: 2rem;
+h2 {
+  font-size: 2rem;
 }
 ul {
   list-style: none;
-  display:grid;
-  padding:0;
+  display: grid;
+  padding: 0;
 }
 
 img {
@@ -16,20 +16,30 @@ img {
   height: auto;
   border-radius: 15px;
 }
- p{
-    max-width: 85%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    margin-bottom: 5rem;
- }
+p {
+  max-width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 5rem;
+}
 
- .surpresa{
-  color:antiquewhite;
+.surpresa {
+  color: antiquewhite;
   background-color: #955454;
   padding: 1.5rem;
   padding-left: 5rem;
-  padding-right:5rem;
+  padding-right: 5rem;
   border-radius: 5px;
   margin-bottom: 50rem;
- }
+}
+
+#fim {
+  color: antiquewhite;
+  font-size: x-large;
+  background-color: #955454;
+  padding: 1.5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  border-radius: 5px;
+}
